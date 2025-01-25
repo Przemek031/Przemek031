@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Przemek031
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP,MYSQL,Python,JS
 - 📫 How to reach me: przemek3253@gmail.com
 
 <!---
